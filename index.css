@@ -1,0 +1,14 @@
+body{
+    
+}
+
+
+video{
+    width: 800px;
+    margin: 50px;
+}
+
+div{
+    text-align: center;
+    background-image: url(灰色.jpeg);
+}
