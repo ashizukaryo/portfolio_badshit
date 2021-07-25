@@ -9,8 +9,13 @@ div{
 }
 
 
-p{
+.p{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
